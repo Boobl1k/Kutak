@@ -1,0 +1,15 @@
+C:\Users\Mansur\Desktop\Kutak\Kutak\bin\Debug\net6.0-windows\Kutak.exe
+C:\Users\Mansur\Desktop\Kutak\Kutak\bin\Debug\net6.0-windows\Kutak.deps.json
+C:\Users\Mansur\Desktop\Kutak\Kutak\bin\Debug\net6.0-windows\Kutak.runtimeconfig.json
+C:\Users\Mansur\Desktop\Kutak\Kutak\bin\Debug\net6.0-windows\Kutak.dll
+C:\Users\Mansur\Desktop\Kutak\Kutak\bin\Debug\net6.0-windows\Kutak.pdb
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.csproj.AssemblyReference.cache
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.AssemblyInfoInputs.cache
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.AssemblyInfo.cs
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.csproj.CoreCompileInputs.cache
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.dll
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\refint\Kutak.dll
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.pdb
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\Kutak.genruntimeconfig.cache
+C:\Users\Mansur\Desktop\Kutak\Kutak\obj\Debug\net6.0-windows\ref\Kutak.dll
